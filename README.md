@@ -3,8 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=febaad&height=200&section=header&text=ksy2653's&nbsp;github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40)
 
   ####  :wave: Welcome my github profile !
-
-  
+뛰어난 백엔드 개발자를 꿈꾸며 열심히 살아가고 있는 중입니다...!  
  <br/>
  <br/>
   
@@ -36,5 +35,8 @@
   <br/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy2653&layout=compact&theme=tokyonight)  
-![SeokYoung's github stats](https://github-readme-stats.vercel.app/api?username=ksy2653&show_icons=true&theme=tokyonight)
+ <br/>
+  <br/>
+  #### : Contact
+  📧: kim2653seok@naver.com
 </div>
