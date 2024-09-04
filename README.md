@@ -71,7 +71,7 @@
   <br/>
 
   ## Portfolio
-  github portfolio: <http://naver.com/>
+  github portfolio: <https://github.com/ksy2653/portfolio>
   
   ## Contact
   📧: kim2653seok@naver.com
