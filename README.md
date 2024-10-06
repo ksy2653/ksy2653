@@ -4,7 +4,7 @@
 
   ##  :wave: Welcome my github profile !
 
-**Java**와 **Python**을 주 언어로 사용하는 web/app 백엔드 개발자입니다!
+**Java**와 **Python**을 주 언어로 사용하는 web/app 백엔드 개발자입니다!!
  <br/>
  <br/>
   
