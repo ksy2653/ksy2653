@@ -41,7 +41,20 @@
 **Communication:**
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style양대학교 정보시스템학과 전공 <br>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+
+<br>
+
+   <br/>
+   <br/>
+
+<div align="center" style="text-align: center;">
+  
+## 🎓 Education&Experience 🎓
+
+<p style="text-align: center;">
+  • <strong>2019.3 ~ 2025.2:</strong> 한양대학교 정보시스템학과 전공 <br>
   • <strong>2023.9 ~ 2023.12:</strong> LG전자 협업 개발 프로젝트 <br>
   • <strong>2024.2.13 ~ 2024.2.23:</strong> 삼성SDS 알고리즘 특강 수료 <br>
   • <strong>2024.3.4 ~ 2024.6.21:</strong> 스타트업 백엔드 개발자 인턴 <br>
